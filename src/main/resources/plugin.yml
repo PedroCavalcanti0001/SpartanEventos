@@ -1,0 +1,11 @@
+name: SpartanEventos
+version: 1.0.0-SNAPSHOT
+main: me.zkingofkill.spartan.SpartanEventos
+description: event plugin
+author: zKingOfKill
+depend:
+  - Vault
+
+commands:
+  evento:
+    description: event command.
